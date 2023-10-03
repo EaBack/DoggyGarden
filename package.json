@@ -1,8 +1,8 @@
 {
   "name": "doggygarden",
   "private": true,
-  "homepage": "https://EaBack.github.io/doggygarden",
-  "version": "0.0.0",
+  "homepage": "https://eaback.github.io/EaBack.DoggyGarden.io/",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
